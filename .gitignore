@@ -1,0 +1,11 @@
+*
+!.gitignore
+!*.v
+!*.hex
+!*.mif
+!*.pdf
+!*.qip
+!pll.bsf
+!*.cmp
+!*.json
+!*.rpt
